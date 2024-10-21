@@ -1,0 +1,57 @@
+{
+  "title": "Esencia Nails Art",
+  "subTitle": "Descubre la elegancia y el arte en el cuidado de tus uñas",
+  "aboutLabel": "Sobre Nosotros",
+  "schedule": "Reserva tu cita",
+  "rightsReserved": "Todos los derechos reservados",
+  "about": "En Esencia Nails Art, creemos en la importancia de la belleza y el cuidado personal. Nuestro equipo está dedicado a ofrecer los mejores tratamientos de uñas, con un toque de arte y creatividad que hace que cada visita sea especial.",
+  "serviceLabels": "Nuestros Servicios",
+  "services": [
+    {
+      "name": "Manicure y Pedicure"
+    },
+    {
+      "name": "Uñas Acrílicas"
+    },
+    {
+      "name": "Uñas de Gel"
+    },
+    {
+      "name": "Diseños Personalizados"
+    }
+  ],
+  "testimonialLabels": "Testimonios",
+  "testimonials": [
+    {
+      "name": "María Pérez",
+      "comment": "Me encantó el servicio en Esencia Nails Art. Mis uñas quedaron hermosas y la atención fue excepcional Definitivamente regresaré."
+    },
+    {
+      "name": "Ana Gómez",
+      "comment": "El ambiente es tan relajante y el personal es muy profesional. Recomiendo este spa de uñas a todos."
+    }
+  ],
+  "routes": [
+    {
+      "path": "/",
+      "label": "Inicio"
+    },
+    {
+      "path": "/about",
+      "label": "Sobre Nosotros"
+    },
+    {
+      "path": "/contact",
+      "label": "Contacto"
+    }
+  ],
+  "facebook": "https://www.facebook.com/profile.php?id=61566788997999&mibextid=ZbWKwL",
+  "instagram": "https://www.instagram.com/esencia.nails.art/",
+  "contactPageLabel": "Descubre tu Esencia",
+  "cellphone": "Teléfono",
+  "cellphoneValue": "+593 99 374 3045",
+  "cellphoneValue2": "+593993743045",
+  "email": "Correo Electrónico",
+  "emailValue": "esencia.nails.art@gmail.com",
+  "address": "Dirección: Avenida Granados y Paris"
+}
